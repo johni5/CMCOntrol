@@ -1,2 +1,2 @@
 # CMControl
-Android color musoc control app
+Android color music control app
