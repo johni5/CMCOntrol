@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DigitButtons">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+
+    <style name="ControlButtons">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+
+    <style name="CommonText">
+        <item name="android:textSize">14dp</item>
+    </style>
+
+</resources>

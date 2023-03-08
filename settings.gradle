@@ -1,0 +1,2 @@
+rootProject.name = "CMControl"
+include ':app'

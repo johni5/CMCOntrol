@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Color Music Control</string>
+    <dimen name="btn_size">50dp</dimen>
+</resources>
